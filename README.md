@@ -6,5 +6,5 @@
 
 **Thoughts:** Getting back into the swing of things was difficult at first, but I felt as time increased so did my dorment knowledge of HTML and CSS. 
 
-**Link to work:** [Blank Document]
-- I created the website locally, so I cannot provide a link for my work just yet
+**Link to work:** [See Project1]
+
