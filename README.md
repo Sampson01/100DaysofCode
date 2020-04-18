@@ -6,5 +6,5 @@
 
 **Thoughts:** Getting back into the swing of things was difficult at first, but I felt as time increased so did my dorment knowledge of HTML and CSS. 
 
-**Link to work:** [See Project1]
+**Link to work:** [See Project1 Files]
 
