@@ -3,13 +3,44 @@
   <head>
    <meta charset="utf-8">
     <title>Sign Up Here !</title>
+
     <style>
 
-    a {
-    	color: #ffd700;
-      text-decoration: none;
-
+    .navli {
+      float: left;
+      padding: 10.10%;
+      font-size: 37px;
+      list-style: none;
     }
+
+    .love {
+      float: left;
+      width: 85%;
+      height: 25%;
+      padding: 15px;
+      border:20px solid black;
+    }
+
+    .lovebody {
+      display: grid;
+      clear: both;
+      text-align: center;
+      padding-left: 30px;
+    }
+
+    .footer {
+      text-align: center;
+    }
+
+    a {
+          color: #0390fc;
+        	text-decoration: none;
+        }
+
+    a:hover {
+            color: black;
+        }
+
 
   h1 {
     font-size: 50px;
@@ -32,9 +63,9 @@
     <header>
         <nav>
               <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="reasons.html">Reasons</a></li>
-                <li><a href="thankyou.html">Thank You</a></li>
+                <li class="navli"><a href="index.html">Store</a></li>
+                <li class="navli"><a href="reasons.html">Reasons</a></li>
+                <li class="navli"><a href="thankyou.html">Thank You</a></li>
 
 
               </ul>
@@ -43,20 +74,30 @@
 
       <h1>Reasons to check out my store:</h1>
 
-      <ol>
-        <li>You love Jesus</li>
-        <li>You love Jesus</li>
-        <li>You love Jesus</li>
-        <li>You love Jesus</li>
-        <li>You love Jesus</li>
-      </ol>
+      <div class="lovebody">
 
-      <img>
-		 	<h3> </h3>
-       <section>
+      <div class="love">
+        <p>You love Jesus</p>
+      </div>
+
+      <div class="love">
+        <p>You love Jesus</p>
+      </div>
+
+      <div class="love">
+        <p>You love Jesus</p>
+      </div>
+
+  </div>
+
+       <section class="footer">
+
+
 			 <footer>
-
+          <p class="">&copy; 2020 Cinque Peggs</p>
 			 </footer>
+
+
        </section>
    </body>
   </html>
