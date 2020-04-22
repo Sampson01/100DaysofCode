@@ -2,9 +2,8 @@
  <html>
   <head>
    <meta charset="utf-8">
-    <title>Sign Up Here !</title>
+    <title>Thanks !</title>
     <style>
-
 
 
     a {
@@ -19,6 +18,7 @@
   h1 {
     font-size: 100px;
     text-align: center;
+    padding-top: 15px;
 
   }
 
@@ -29,8 +29,25 @@
    list-style: none;
  }
 
+ div {
+  width: 250px;
+  height: 200px;
+  background-color: #3090fc;
+  position: relative;
+  animation-name: thankyoubox;
+  animation-duration: 4s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction: normal;
+}
 
-
+@keyframes thankyoubox {
+  0%   {background-color:#0390fc; left:180px; top:180px;}
+  25%  {background-color:black; left:75%; top:180px;}
+  50%  {background-color:#0390fc; left:75%; top:400px;}
+  75%  {background-color:black; left:0px; top:400px;}
+  100% {background-color:#0390fc; left:0px; top:180px;}
+}
 
 
     </style>
@@ -48,8 +65,12 @@
               </ul>
         </nav>
     </header>
+    <div>
+</div>
 
-      <h1>Thanks for Your support!</h1>
+      <h1 class="">Thanks for Your Support!</h1>
+
+
 
 
 			 <footer>
