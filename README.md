@@ -23,6 +23,15 @@
 ### Day 4: April 21, 2020 (Marvelous Mugs Info Page)
 
 **Today's Progress**: I would say that the majority of my time went to working the animation you see on the thankyou.html page. I struggled with applying the correct values to the correct properties under the @keyframes rule and the div element in the CSS.
-**Thoughts:**: For my first attempt at something like this, I fell pretty good about it. 
+
+**Thoughts:** For my first attempt at something like this, I fell pretty good about it. 
+
+**Link to work:** [See Project1 Files]
+
+### Day 5/6: April 23, 2020 (Marvelous Mugs Info Page)
+
+**Today's Progress**: On Day 5, I did not do any coding on Project 1 because I spent the majority of my time trying to figure out how to connect my code in Atom to my repositiory on here. However, today I did some work on project one - nothing too major, just worked on some aesthetics.
+
+**Thoughts:** Things can happen that you have no control over, you just have to work around the inconviences and work accordingly. 
 
 **Link to work:** [See Project1 Files]
